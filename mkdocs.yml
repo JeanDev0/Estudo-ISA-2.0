@@ -1,0 +1,5 @@
+site_name: Estudo ISA
+nav:
+  - Início: 'index.md'
+  - Sobre: 'sobre.md'
+  - Contato: 'contato.md'
